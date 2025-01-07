@@ -41,10 +41,6 @@ This project implements an assembler for a hypothetical assembly language. The a
 
 ## Setup
 
-### Prerequisites
-
-- Python 3.6 or later.
-
 ### Installation
 
 1. Clone the repository:
