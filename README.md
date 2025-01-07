@@ -184,7 +184,7 @@ change the file content according to your test cases
 
 2. Run the assembler and verify the output:
    ```bash
-   python assembler.py
+   python testscript.py
    ```
 
 3. The script automatically compares the generated output with the expected output and reports success or failure.
