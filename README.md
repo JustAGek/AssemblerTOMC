@@ -1,9 +1,5 @@
 # AssemblerTOMC
 
-Here's a GitHub-friendly documentation format using Markdown:
-
----
-
 # Assembler: A Simple Assembly to Machine Code Converter
 
 This project implements an assembler for a hypothetical assembly language. The assembler reads source code written in assembly and converts it into binary machine code, leveraging predefined opcode tables for the translation process.
@@ -188,6 +184,7 @@ Error: Invalid instruction 'XYZ' at line 10
 1. The project includes a sample test case:
    - Input: `testcode.asm`.
    - Expected Output: `testcode.mc`.
+change the file content according to your test cases
 
 2. Run the assembler and verify the output:
    ```bash
