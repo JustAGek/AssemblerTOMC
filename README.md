@@ -46,7 +46,7 @@ This project implements an assembler for a hypothetical assembly language. The a
 1. Clone the repository:
    ```bash
    git clone https://github.com/JustAGek/AssemblerTOMC.git
-   cd assembler
+   cd AssemblerTOMC
    ```
 
 2. Prepare input files:
