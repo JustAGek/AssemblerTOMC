@@ -49,7 +49,7 @@ This project implements an assembler for a hypothetical assembly language. The a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-name/assembler.git
+   git clone https://github.com/JustAGek/AssemblerTOMC.git
    cd assembler
    ```
 
